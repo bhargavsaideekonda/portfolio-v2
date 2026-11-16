@@ -171,4 +171,10 @@ export const journey = [
     title: 'AI Agent Bootcamp by GenLab',
     detail: 'Joy University · building AI agents with n8n',
   },
+  {
+    date: '14–15 Nov 2026',
+    tag: 'Hackathon',
+    title: 'NASA Space Apps Challenge 2026',
+    detail: 'Awarded the Galactic Problem Solver certificate for taking part in NASA’s global hackathon',
+  },
 ]

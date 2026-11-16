@@ -17,6 +17,7 @@ const FLOORS = [
   [120, 150],
   [120, 110],
   [140, 90],
+  [110, 100],
 ]
 
 // Education + achievements as an architectural elevation: every milestone you
